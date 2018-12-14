@@ -6,7 +6,7 @@ Multi Object Tracker Using Kalman Filter & Hungarian Algorithm
 
 
 - Usage:  
-$ python2.7 objectTracking.py  
+$ python3.5 objectTracking.py  
 
 - Design:  
 
@@ -17,10 +17,10 @@ $ python2.7 objectTracking.py
 <img src="images/KF_output.png" height="400"/>  
 
 - Pre-requisite:  
-    - Python2.7  
+    - Python3.5  
     - Numpy  
     - SciPy  
-    - Opencv 3.0 for Python - [Installation](http://www.pyimagesearch.com/2015/06/15/install-opencv-3-0-and-python-2-7-on-osx/)
+    - Opencv 3.4.4 for Python
     
 - References:    
   - [Excellent MATLAB tutorial by Student Dave on object tracking](http://studentdavestutorials.weebly.com/multi-bugobject-tracking.html)   
